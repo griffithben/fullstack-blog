@@ -1,0 +1,48 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+logo:
+  src: /img/fullstack_logo.png
+  basic: /img/basic_fullstack_logo.png
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Fullstack Brewing Co.
+
+# URL of the Home page image
+index_cover: /img/home-bg.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon:
+  root: /img/favicons
+
+# Social Accounts
+twitter_url: https://twitter.com/fullstackbeer
+twitter_handle: fullstackbeer
+facebook_url: https://www.facebook.com/fullstackbrewing/
+untappd: https://untappd.com/FullstackBrewing
+github_url:
+gitlab_url:
+linkedin_url:
+mailto: fullstackbrewing@gmail.com
