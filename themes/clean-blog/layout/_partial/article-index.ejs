@@ -15,6 +15,11 @@
             Posted by <%- item.author %> on
         <% } %>
         <%= item.date.format(config.date_format) %>
+        <br/>
+        Categories:
+        <% item.categories.each(function(category){ %>
+          <a href="/categories/<%- category.name %>"><%- category.name %></a>
+        <% }); %>
     </p>
 </div>
 <hr>

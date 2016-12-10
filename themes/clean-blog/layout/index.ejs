@@ -15,17 +15,12 @@
 <!-- Main Content -->
 <div class="container">
     <div class="row">
-        <div class="col-lg-8 col-md-10">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <% page.posts.each(function(item){ %>
                 <%- partial('_partial/article-index', {item: item}) %>
             <% }); %>
 
             <%- partial('_partial/pagination') %>
-        </div>
-        <div class="col-lg-4 col-md-12">
-          <% site.tags.each(function(tag){ %>
-              <%- tag.name %>
-          <% }); %>
         </div>
     </div>
 </div>
