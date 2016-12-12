@@ -17,9 +17,13 @@
         <%= item.date.format(config.date_format) %>
         <br/>
         Categories:
-        <% item.categories.each(function(category){ %>
-          <a href="/categories/<%- category.name %>"><%- category.name %></a>
-        <% }); %>
+        <%
+            var categories = [];
+            item.categories.forEach(function(category){
+                categories.push('<a href="' + config.root + category.path + '">' + category.name + '</a>');
+            });
+        %>
+        <%- categories.join(' | ') %>
     </p>
 </div>
 <hr>

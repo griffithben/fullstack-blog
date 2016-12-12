@@ -20,7 +20,7 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: fullstackbrewing
   # Facebook comments
   facebook:
     appid:
@@ -28,7 +28,7 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-88836923-1
 
 # Addthis ID
 addthis:

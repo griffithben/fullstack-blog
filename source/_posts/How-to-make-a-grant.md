@@ -1,11 +1,12 @@
 ---
 title: How to make a grant
 date: 2016-12-06 22:40:51
-tags:
+tags: [mash tun,grant]
 subtitle: Building a grant yourself is actually pretty easy.  Let's step through the concept.
 cover: /img/grant/grant-cover.jpg
-category: hardware
+category: [hardware]
 author: Ben Griffith
+email: griffith.ben@gmail.com
 ---
 
 ### What is a grant?
@@ -79,4 +80,20 @@ After everything is assembled, you are ready to put your grant to use.
   <img src="{% asset_path grant_complete.jpg %}" width="80%%" class="img-rounded" />
 </div>
 
+<br/>
 ### Putting it to use
+
+Now lets see how we can actually use this.  In this setup, I have my mash tun and grant sitting next to each other.  My grant sits right under the level in which my mash is usually filled.
+
+<div class="center-block">
+  <img src="{% asset_path grant_usage.jpg %}" width="80%%" class="img-rounded" />
+</div>
+
+
+1. When starting the vorlauf, I am able to open up the valve fully and leave it.  The hydrostatic pressure produced from within the mash tun will create a smooth and consistent linear flow.  The rate of flow is then determined by the rate in which you add sparge water later on.  Want it to go faster, sparge faster.
+
+2. The hydrostatic pressure will push the wort up through the pipe and into the grant.  Let gravity do all the work!  Now the grant can start to filter our runnings.
+
+3. Once the grant starts to fill, it will prime the pump.  The pump will be used to pump the wort back up to the top of the mash tun.
+
+4. The valve at the top of the mash tun will regulate the level of wort within the grant.  Since the flow from the mash tun into the grant will be much slower than the flow the pump can produce, we need a way to slow that down.  Otherwise, the pump would empty the grant and lose its prime.
