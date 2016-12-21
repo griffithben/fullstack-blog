@@ -1,10 +1,14 @@
 ---
 title: How to make a grant
 date: 2016-12-06 22:40:51
-tags: [mash tun,grant]
+tags:
+- mash tun
+- grant
+- engineering
 subtitle: Building a grant yourself is actually pretty easy.  Let's step through the concept.
-cover: /img/grant/grant-cover.jpg
-category: [hardware]
+cover: /2016/12/06/How-to-make-a-grant/grant-cover.jpg
+category:
+- hardware
 author: Ben Griffith
 email: griffith.ben@gmail.com
 ---

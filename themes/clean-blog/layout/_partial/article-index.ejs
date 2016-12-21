@@ -12,10 +12,10 @@
     <p class="post-meta">
         <!-- Date and Author -->
         <% if(item.author) { %>
-            Posted by <%- item.author %> on
+            <img src="<%- gravatar(item.email, 30) %>" class="img-circle" alt="<%- item.author %>"> <%- item.author %> on
         <% } %>
         <%= item.date.format(config.date_format) %>
-        <br/>
+         | 
         Categories:
         <%
             var categories = [];

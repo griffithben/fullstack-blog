@@ -17,7 +17,7 @@
                     <span class="meta">
                         <!-- Date and Author -->
                         <% if(item.author) { %>
-                            <img src="<%- gravatar(item.email, 40) %>" class="img-circle" alt="Ben Griffith"> <%- item.author %> on
+                            <img src="<%- gravatar(item.email, 40) %>" class="img-circle" alt="<%- item.author %>"> <%- item.author %> on
                         <% } %>
                         <%= item.date.format(config.date_format) %>
                     </span>
@@ -54,16 +54,16 @@
            <% if (item.categories && item.categories.length || item.tags && item.tags.length) { %>
                 <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 post-tags">
                     <% if (item.tags && item.tags.length){ %>
-                        <strong>TAGS - </strong>
+                        <strong>TAGS</strong><br/>
                         <%- partial('article-tags', {item: item}) %>
                     <% } else { %>
-                        <strong>CATEGORIES - </strong>
+                        <strong>CATEGORIES</strong><br/>
                         <%- partial('article-categories', {item: item}) %>
                     <% } %>
                 </div>
                 <div class="col-lg-4 col-md-5 post-categories">
                     <% if (item.tags && item.tags.length && item.categories && item.categories.length){ %>
-                        <strong>CATEGORIES - </strong>
+                        <strong>CATEGORIES</strong><br/>
                         <%- partial('article-categories', {item: item}) %>
                     <% } %>
                 </div>
