@@ -5,7 +5,7 @@ tags:
 - yeast
 - storage
 subtitle: It's all fun until a mason jar blows up.
-cover: /2017/01/04/Quick-Tip-Storing-Yeast/cover.jpg
+cover: /2017/01/04/Quick-Tip-Storing-Yeast/lid-cover.jpg
 category:
 - hardware
 author: Ben Griffith
