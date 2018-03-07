@@ -1,5 +1,6 @@
 ---
 title: Build a better blowoff assembly
+catalog: true
 date: 2016-12-21 12:00:00
 tags:
 - blowoff
@@ -7,7 +8,7 @@ tags:
 - blichmann
 - engineering
 subtitle: Most seem to only offer a thermowell or blowoff tube.  How about both!
-cover: /2016/12/21/Build-a-better-blowoff-assembly/blowoff-cover.jpg
+header-img: blowoff-cover.jpg
 category:
 - hardware
 author: Ben Griffith

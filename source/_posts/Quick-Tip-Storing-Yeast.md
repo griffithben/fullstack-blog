@@ -1,11 +1,13 @@
 ---
 title: 'Quick Tip: Storing Yeast'
+catalog: true
 date: 2017-01-04 12:45:00
 tags:
 - yeast
 - storage
 subtitle: It's all fun until a mason jar blows up.
-cover: /2017/01/04/Quick-Tip-Storing-Yeast/lid-cover.jpg
+cover: /2017/01/04/Quick-Tip-Storing-Yeast/
+header-img: lid-cover.jpg
 category:
 - hardware
 author: Ben Griffith

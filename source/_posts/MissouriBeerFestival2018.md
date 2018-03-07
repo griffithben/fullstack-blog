@@ -1,5 +1,6 @@
 ---
 title: 2018 Missouri Beer Festival
+catalog: true
 date: 2018-02-26 23:36:14
 tags:
 - events

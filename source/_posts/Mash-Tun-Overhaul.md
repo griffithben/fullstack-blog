@@ -1,12 +1,13 @@
 ---
 title: Mash Tun Overhaul
+catalog: true
 date: 2017-05-20 12:00:00
 tags:
 - keg
 - mash tun
 - engineering
 subtitle: Scaling up from a 10 to a 15 gallon mash tun.
-cover: /2017/05/20/Mash-Tun-Overhaul/mash-tun-cover.jpg
+header-img: mash-tun-cover.jpg
 category:
 - hardware
 author: Ben Griffith
