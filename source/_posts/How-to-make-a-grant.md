@@ -1,6 +1,6 @@
 ---
 title: How to make a grant
-catalog: true
+catalog: false
 date: 2016-12-06 22:40:51
 tags:
 - mash tun

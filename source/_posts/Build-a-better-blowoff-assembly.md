@@ -1,6 +1,6 @@
 ---
 title: Build a better blowoff assembly
-catalog: true
+catalog: false
 date: 2016-12-21 12:00:00
 tags:
 - blowoff

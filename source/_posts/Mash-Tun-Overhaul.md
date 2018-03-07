@@ -1,6 +1,6 @@
 ---
 title: Mash Tun Overhaul
-catalog: true
+catalog: false
 date: 2017-05-20 12:00:00
 tags:
 - keg

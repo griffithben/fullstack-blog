@@ -1,6 +1,6 @@
 ---
 title: 'Quick Tip: Storing Yeast'
-catalog: true
+catalog: false
 date: 2017-01-04 12:45:00
 tags:
 - yeast
