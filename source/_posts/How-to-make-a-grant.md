@@ -43,7 +43,7 @@ For my setup, I have some optional fittings that might help.  However, every set
 
 Once you have the container, the first thing you need to do is cut some holes.  This is probably the most difficult part of the process depending on what tools you have.  It can be done with either a step bit or some kind of knockout punch, but the hole needs to be cut to about 13/16".  You will need to cut a hole on the side near the top and one on the bottom in the center.  
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_hole_1.jpg %}" width="80%%" class="img-rounded" />
   <br/>
   <img src="{% asset_path grant_hole_2.jpg %}" width="80%" class="img-rounded" />
@@ -51,7 +51,7 @@ Once you have the container, the first thing you need to do is cut some holes.  
 
 The next step is to attach the bottom assembly.  In my case I use camlocks, but any standard 1/2" threaded nipple would work.  Use a locknut on the outside and on the inside to tighten.  Be sure to put the silicon ring on the outside of the vessel.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_bottom_assembly.jpg %}" width="80%%" class="img-rounded" />
   <br/>
   <img src="{% asset_path grant_bottom_assembly_attached.jpg %}" width="80%%" class="img-rounded" />
@@ -61,7 +61,7 @@ The next step is to attach the bottom assembly.  In my case I use camlocks, but 
 
 After the bottom assembly is added, you can put in the filters.  The first filter is the secondary filter.  This filter grabs all of the tiny particles that might come through while vorlaufing.  The next is the primary filter, which grabs most of the grain husks and larger particles that come through initially.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_filter_secondary.jpg %}" width="80%%" class="img-rounded" />
   <br/>
   <img src="{% asset_path grant_filter_primary.jpg %}" width="80%%" class="img-rounded" />
@@ -73,7 +73,7 @@ After the bottom assembly is added, you can put in the filters.  The first filte
 
 After the bottom assembly is added, we can mount up the top assembly.  This portion will allow wort to run in a linear flow without adjustment.  
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_top_assembly.jpg %}" width="80%%" class="img-rounded" />
   <br/>
   <img src="{% asset_path grant_top_assembly_complete.jpg %}" width="80%%" class="img-rounded" />
@@ -81,7 +81,7 @@ After the bottom assembly is added, we can mount up the top assembly.  This port
 
 After everything is assembled, you are ready to put your grant to use.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_complete.jpg %}" width="80%%" class="img-rounded" />
 </div>
 
@@ -90,7 +90,7 @@ After everything is assembled, you are ready to put your grant to use.
 
 Now lets see how we can actually use this.  In this setup, I have my mash tun and grant sitting next to each other.  My grant sits right under the level in which my mash is usually filled.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path grant_usage.jpg %}" width="80%%" class="img-rounded" />
 </div>
 

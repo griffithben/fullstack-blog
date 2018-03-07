@@ -24,7 +24,7 @@ I got my first stainless conical about 2 years ago.  It is a Blichmann 14 gallon
 
 The only solution, and similar solutions for other conical brands, was to buy an expensive assembly that performed one function.  In particular to the Blichmann conical, the assembly runs for about $120-130 depending on where you shop.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path blichmann-assembly.jpg %}" width="40%" class="img-rounded" />
   <small>Blichmann Blowoff Assembly</small>
 </div>
@@ -48,7 +48,7 @@ One of the biggest improvements with fermentation is controlling the temperature
 
 The first step we need to do is put together the three main parts: thermowell, tri-clamp adapter and barb.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path thermowell.jpg %}" width="80%" class="img-rounded" />
   <small>1/2" NPT 12" Thermowell</small>
 
@@ -61,7 +61,7 @@ The first step we need to do is put together the three main parts: thermowell, t
 
 Assembly is  straight forward.  You will want to thread the thermowell into the top of the tee, and the barb on the side.  This is the only way this configuration will work so it's pretty fail proof!  Don't forget to add thread tape to all of your NPT connections.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path added-thermowell.jpg %}" width="80%" class="img-rounded" />
   <small>Thermowell Added</small>
 
@@ -71,7 +71,7 @@ Assembly is  straight forward.  You will want to thread the thermowell into the 
 
 Next, if using a Blichmann Conical, you need to attach the Bottom Dump fitting.  This is the same fitting used if you purchased their blowoff assembly and fits the pre-cut hole in the top of the conical.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path adapter1.jpg %}" width="80%" class="img-rounded" />
   <small>Top of Bulkhead</small>
 
@@ -82,14 +82,14 @@ Next, if using a Blichmann Conical, you need to attach the Bottom Dump fitting. 
 
 Now it should be very apparent how this is going to work.  The thermowell will penetrate almost to the center of the vessel, while still leaving space within the NPT Tee for Co2 and yeast to blow out. The extra large 5/8" Barb helps to ensure we don't get any clogs.  Most 1/2" barbs inner diameter are a little smaller.  Using a more flexible 1/2" ID silicon tube will go onto this barb fairly easily and end up in a blowoff bucket.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path underside.jpg %}" width="80%" class="img-rounded" />
   <small>Thermowell/Blowoff Underside</small>
 </div>
 
 Now that it's put together, all we need to do it attach it to our Tri-Clamp bulkhead on the lid of our conical using our gasket and sanitary clamp.
 
-<div class="center-block">
+<div class="center-block text-center">
   <img src="{% asset_path clamp.jpg %}" width="38%" class="img-rounded" />&nbsp;&nbsp;&nbsp;<img src="{% asset_path gasket.jpg %}" width="38%" class="img-rounded" />
 
   <img src="{% asset_path added-lid.jpg %}" width="80%" class="img-rounded" />
