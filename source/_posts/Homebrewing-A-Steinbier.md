@@ -7,7 +7,7 @@ tags:
 - homebrew
 - recipe
 subtitle: 
-header-img: steinbier-cover.jpg
+header-img: steinbier-cover-new.jpg
 category:
 - brewing
 author: Lincoln Purvis
