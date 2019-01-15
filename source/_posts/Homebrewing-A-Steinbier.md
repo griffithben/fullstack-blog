@@ -1,12 +1,12 @@
 ---
 title: Homebrewing a Steinbier
 catalog: false
-date: 2018-12-21 12:00:00
+date: 2019-1-15 12:00:00
 tags:
 - steinbier
 - homebrew
 - recipe
-subtitle: Most seem to only offer a thermowell or blowoff tube.  How about both!
+subtitle: 
 header-img: steinbier-cover.jpg
 category:
 - brewing
@@ -18,11 +18,11 @@ email: linkpurvis@gmail.com
 
 Steinbier simply means “stone beer” in German. It is an old brewing process, that involves using super heated rocks added to the wort to boil it. This process dates back to the early days of brewing, before the introduction of large metal kettles which could be heated by flame to produce a boil. There is some fascinating history behind this process and I highly recommend Fred Eckhardt’s 2001 write up in [All About Beer Magazine](http://allaboutbeer.com/article/america’s-own-stone-beer/).
 
-I can’t recall when it was that I learned about steinbiers but I have been intrigued by the idea ever since and had been hoping to try it out. I’d spent the year of 2018 trying out many different new beer styles and weird ingredients so I figured there was no better way to end 2018: My Year of Weird, than with a stein beer brew. Plus, a bonfire while making beer sounds like a great time to me. 
+I can’t recall when it was that I learned about steinbiers but I have been intrigued by the idea ever since and had been hoping to try it out. I’d spent the year of 2018 trying out many different new beer styles and weird ingredients so I figured there was no better way to end 2018: My Year of Weird, than with a stienbier brew. Plus, a bonfire while making beer sounds like a great time to me. 
 
-Before I get too much further along, I’d like to give a big shoutout to the folks at [Scratch Brewing](https://www.scratchbeer.com) in Ava, IL. They have made several stein beers in the past and gave me some helpful advice when I was in the research phase of this brew. If you haven’t had any of their beers or been to their brewery, I highly suggest you make it a priority!
+Before I get too much further along, I’d like to give a big shoutout to the folks at [Scratch Brewing](https://www.scratchbeer.com) in Ava, IL. They have made several stienbiers in the past and gave me some helpful advice when I was in the research phase of this brew. If you haven’t had any of their beers or been to their brewery, I highly suggest you make it a priority!
 
-### Where Do You Get the Stones!?
+### Where Do You Get The Stones?!
 
 The major component of a steinbier is the stone that you use. Not just any rock will work as you will need something that can withstand being super heated and then cooled to 212F to boil your wort. Igneous-types of stone like granite and soapstone are great candidates. What you use will depend on what is available to you. 
 
@@ -35,9 +35,9 @@ I decided to use granite as I figured it would be the easiest for me to source. 
   <small>Scrap Countertop Granite.</small>
 </div>
 
-I grabbed about 16 or so fist-sized chunks of what looked like granite countertop scrap. However, I found myself second guessing the quality of the scrap and if it would be good for my purposes or not. I eventually stumbled across a [video from Sixpoint Brewery](https://www.youtube.com/watch?v=oJV3OAzYJdo) that documented their process of brewing a stein beer. They had sourced granite counter scrap similar to mine and decided not to use it as it easily broke in half after one use. While I would be using a different technique than they employed, I also decided to look elsewhere for my stones.
+I grabbed about 16 or so fist-sized chunks of what looked like granite countertop scrap. However, I found myself second guessing the quality of the scrap and if it would be good for my purposes or not. I eventually stumbled across a [video from Sixpoint Brewery](https://www.youtube.com/watch?v=oJV3OAzYJdo) that documented their process of brewing a stienbier. They had sourced granite counter scrap similar to mine and decided not to use it as it easily broke in half after one use. While I would be using a different technique than they employed, I also decided to look elsewhere for my stones.
 
-Fortunately, my girlfriend’s father used to work construction and had several large blocks of granite left over from a previous job. He and I went out and hit one with a sledge hammer several times to produce chunks of raw Missouri granite that would be perfect for my stein beer.  I took home a 5gal bucket full of granite rocks and then refined some of the sharper edges with a hammer and chisel to reduce the likelihood of any of the edges from shattering off into my kettle due to the heat. 
+Fortunately, my girlfriend’s father used to work construction and had several large blocks of granite left over from a previous job. He and I went out and hit one with a sledge hammer several times to produce chunks of raw Missouri granite that would be perfect for my stienbier.  I took home a 5gal bucket full of granite rocks and then refined some of the sharper edges with a hammer and chisel to reduce the likelihood of any of the edges from shattering off into my kettle due to the heat. 
 
 I knew moving super heated rocks from a fire to my kettle would be difficult and  didn’t really own any tongs that would work well for the job. I found these 26in [firewood tongs](https://www.amazon.com/dp/B01N654UZY/) on Amazon and decided to give them a shot. I’m happy to report they worked well. They are pretty thin so grabbing a rock the wrong way could easily mean accidentally dropping it so you need to make sure you have a good grip with them.
 
@@ -47,12 +47,12 @@ I knew moving super heated rocks from a fire to my kettle would be difficult and
 </div>
 <div class="center-block text-center">
   <img src="{% asset_path stones-in-wort.jpg %}" width="80%" class="img-rounded" />
-  <small>Stones are in!</small>
+  <small>Stones and trub left in the kettle after the transfer.</small>
 </div>
 
 ### Local Malts, Cedar Tips, and Hot Yeast
 
-While making a stein beer was unique enough, I wanted to go a little further with it. I had recently learned a small, artisan maltster in my area who had opened up earlier in 2018. They specialized in malting grains grown in the Midwest, including some red wheat that was grown just a couple counties over from where I live. I was super excited about the idea of using locally grown and malted grains in this beer so I reached out to [Gateway Custom Malts](http://gatewaymalt.com) to see if I could get my hands on some of their malts. Not only did I get the malts but I got a tour of their facility in Montgomery City which was pretty awesome. 
+While making a stienbier was unique enough, I wanted to go a little further with it. I had recently learned a small, artisan maltster in my area who had opened up earlier in 2018. They specialized in malting grains grown in the Midwest, including some red wheat that was grown just a couple counties over from where I live. I was super excited about the idea of using locally grown and malted grains in this beer so I reached out to [Gateway Custom Malts](http://gatewaymalt.com) to see if I could get my hands on some of their malts. Not only did I get the malts but I was given a tour of their facility in Montgomery City which was pretty awesome.
 
 I also decided to try an ingredient I had been wanting to use for a while. Eastern Red Cedar is very common here in my area of the country. It is technically a species of juniper and it can be used in brewing in many different forms including the bark, berries and tips of the green branches. While the nuances of the flavor and aroma from the cedar tips can vary depending on location and time of year, the usually put off a crisp orange peel aroma and produce a piney green gin-like flavor.
 
@@ -67,7 +67,7 @@ Before we get to the recipe, I’d like to talk about yeast choice. On a commerc
 I grabbed a pack from my local shop but found it to be nearly 6 months old. I was a little nervous at first as it should have lost a lot of viability at that point. However, after talking to some folks who had worked with it before, they suggested that HotHead works really well when under-pitched and the smaller cell count wouldn’t have an issue with the higher gravity of my recipe. In short, don’t worry about under pitching this yeast. It had no issues getting going and making a great beer!
 
 ### Recipe
-###### Taken for Granite - Cedar Stein Beer - 5gal
+###### Taken for Granite - Cedar stienbier - 5gal
 OG: 1.068
 24 IBu
 5.7SRM
@@ -123,5 +123,5 @@ This is where the fun begins. Using the tongs, grab a couple stones from the fir
 
 <div class="center-block text-center">
   <img src="{% asset_path final.jpg %}" width="80%" class="img-rounded" />
-  <small>Taken for Granite - Cedar Stein Beer - 5gal</small>
+  <small>Taken for Granite - Cedar stienbier - 5gal</small>
 </div>
