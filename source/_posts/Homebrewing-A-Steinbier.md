@@ -50,7 +50,7 @@ I knew moving super heated rocks from a fire to my kettle would be difficult and
   <small>Stones and trub left in the kettle after the transfer.</small>
 </div>
 
-### Local Malts, Cedar Tips, and Hot Yeast
+### Local Malts, Cedar Tips, and Kveik!
 
 While making a stienbier was unique enough, I wanted to go a little further with it. I had recently learned a small, artisan maltster in my area who had opened up earlier in 2018. They specialized in malting grains grown in the Midwest, including some red wheat that was grown just a couple counties over from where I live. I was super excited about the idea of using locally grown and malted grains in this beer so I reached out to [Gateway Custom Malts](http://gatewaymalt.com) to see if I could get my hands on some of their malts. Not only did I get the malts but I was given a tour of their facility in Montgomery City which was pretty awesome.
 
